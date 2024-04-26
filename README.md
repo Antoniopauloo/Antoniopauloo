@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Antonio Paulo Camarda dos Santos - ApcsCode
 
-- 🌱 Hoje trabalho com Full Stack Java
+- 🌱 Atualmente, atuo como Desenvolvedor Full Stack especializado em Java.
 - 📫 Contate-me no email: antoniopaulocamarda@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Antoniopauloo&show_icons=true&theme=transparent)
